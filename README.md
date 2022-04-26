@@ -19,7 +19,7 @@
 </div>
  
  ##
- <p> Conhecimentos da faculdade<p>
+ <h5> Conhecimentos da faculdade<h5>
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -27,11 +27,11 @@
  <img  height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  
 ##
-<p> Conhecimentos da alura</P>
+<h5> Conhecimentos da alura</h5>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 ##
-<p>Contatos</P>
+
 <div>
 <a href="https://instagram.com/wellington_carvalho008" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
