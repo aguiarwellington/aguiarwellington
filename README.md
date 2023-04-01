@@ -8,10 +8,9 @@
 
 
 - 🔭 I’m currently estuding in Centro Universitário do Distrito Federal - UDF  ...
-- i,m work with develop Delphi Trainee in company XSoluções Global IT · 
+-  i,m work with develop Delphi Trainee in company XSoluções Global IT · 
 - 🖥💾 graduation: Bachelor of Information Systems
 - 🌱 I’m currently learning HTML, CSS,Java Script,Delphi, database.
-- I want learn everything about computer...
 ##
 <div align="center">
   <a href="https://github.com/aguiarwellington">
